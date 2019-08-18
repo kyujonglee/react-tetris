@@ -16,6 +16,7 @@ const StyledStartButton = styled.button`
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 1.2em;
   text-align : center;
+  cursor: pointer;
 `;
 
 const StartButton = ({ callback }) => (
